@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kornelia Frankiewicz
+- 👀 I’m interested in new technologies, especially in front-end issues.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking for my first job / internship.
+- 📫 You can text me and email: kornelia.frankiewicz1996@gmail.com
