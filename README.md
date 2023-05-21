@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kornelia Frankiewicz - junior front-end developer
+- 👋 Hi, I’m Kornelia Frankiewicz - javascript developer
 - 👀 I’m interested in new technologies, especially in front-end issues.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning node.js and redux.
 - 📫 You can text me and email: kornelia.frankiewicz1996@gmail.com
